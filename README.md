@@ -1,1 +1,5 @@
-# CSS_Properties
+![Screenshot (220)](https://user-images.githubusercontent.com/86904865/130053000-2fa83643-40b0-45b6-b982-7b40f69e0839.png)
+![Screenshot (221)](https://user-images.githubusercontent.com/86904865/130053008-964699d2-b306-4ba7-8954-55e58f2cce0a.png)
+![Screenshot (222)](https://user-images.githubusercontent.com/86904865/130053010-861ad057-b692-4bd4-b6f1-2b3d778c8405.png)
+![Screenshot (223)](https://user-images.githubusercontent.com/86904865/130053011-747be178-e71d-4713-802a-14aaf8e46022.png)
+![Screenshot (224)](https://user-images.githubusercontent.com/86904865/130053013-7479e7d0-c795-42ad-86e1-23eba9b6fd19.png)
